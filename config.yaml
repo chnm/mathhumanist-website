@@ -1,0 +1,8 @@
+baseURL: 'https://mathhumanists.org/'
+languageCode: 'en-us'
+title: 'Mathematical Humanists'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
