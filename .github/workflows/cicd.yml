@@ -3,7 +3,6 @@ name: "[mathhumanist-website] Build & Publish"
 on:
   push:
     branches:
-      - "feature/**"  # todo: remove
       - "main"
     paths:
       - "**"
