@@ -1,0 +1,16 @@
+  {{ partial "header.html" . }}
+  <body class="
+    bg-slate-100 
+    dark:bg-slate-800
+  ">
+    {{ partial "menu.html" . }}
+
+    {{ block "main" . }}
+    {{ end }}
+    {{ block "footer" . }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+  </body>
+</html>
+
+

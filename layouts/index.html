@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <main aria-role="main">
+    <div class="homepage-content limiter pad2y prose sm:prose-lg md:prose-lg lg:prose-xl dark:prose-invert">
+
+      {{ .Content }}
+    </div>
+    <div>
+      {{ range first 10 .Site.RegularPages }}
+        {{ .Render "summary" }}
+      {{ end }}
+    </div>
+  </main>
+{{ end }}
+
+

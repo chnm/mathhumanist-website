@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+    <meta name="description" content="Project website for the Mathematical Humanists.">
+    <meta name="generator" content="Hugo {{ hugo.Version }}">
+
+    <base href="{{ .Site.BaseURL }}">
+    <title> {{ .Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    {{ $mainCSS := resources.Get "dist/main.css" | resources.Minify | resources.Fingerprint "sha512" }}
+    <link rel="stylesheet" href="{{ $mainCSS.Permalink }}">
+
+    {{ $js := resources.Get "javascript/utils.js" | resources.Minify | resources.Fingerprint "sha512" }}
+    <script src="{{ $js.Permalink }}" defer></script>
+</head>
