@@ -1,5 +1,5 @@
 ---
-title: "Call for Participants: Mathematical Humanists Workshops"
+title: "Call for Participants 2024"
 slug: /cfp/
 ---
 
