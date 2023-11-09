@@ -20,14 +20,14 @@ Participants will learn to construct and analyze graphs and networks using real-
 ### August 2024 Workshop Instructors
 
 <div class="flex items-center space-x-4 pb-12">
-    <img class="w-40 h-40 rounded-full" src="https://doodleipsum.com/700/avatar-4?i=4ca6e48567fb9da0c347763f9209afa6" alt="">
+    <img class="w-40 h-40 rounded-full" src="/images/jo.jpg" alt="">
     <div class="font-medium dark:text-white">
         <div class="bio"><strong>Jessica Otis</strong> is an Assistant Professor of History and a director at the Roy Rosenzweig Center for History and New Media. She is both a digital humanist and an historian of mathematics, who received her M.S. in Mathematics from the University of Virginia before pursuing a Ph.D. in History. She is experienced at teaching mathematics to humanist audiences, including the network analysis course at the Digital Humanities Summer Institute, the history of mathematics as an undergraduate course in both departments of mathematics and history, and introductory calculus courses for non-major undergraduate students.</div>
     </div>
 </div>
 
 <div class="flex items-center space-x-4">
-    <img class="w-40 h-40 rounded-full" src="https://doodleipsum.com/700/avatar-4?i=898c1d8b526c9ad1a36cd693ddd98424" alt="">
+    <img class="w-40 h-40 rounded-full" src="/images/as.jpg" alt="">
     <div class="font-medium dark:text-white">
         <div class="bio"><strong>Ashley Sanders</strong> is Vice Chair of Digital Humanities at UCLA, where she offers courses in applied statistics for humanistic research, text analysis,  and computational humanistic research. Her current book project, *Visualizing History's Fragments* (Palgrave, Forthcoming)  is an introduction to computational methods situated in a historical case study and based on her rich instructional and educational research experience. Prior to graduate school, Ashley worked in mathematics education research for four years at Western Michigan University, taught mathematics at Kalamazoo Central High School and served on the district's mathematics curriculum committee for two years. She holds a Ph.D. in History with a specialization in Digital Humanities from Michigan State University and a B.S. in both History and Mathematics Secondary Education from Western Michigan University.
 </div>
