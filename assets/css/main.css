@@ -115,3 +115,6 @@ a.nav-element:hover {
     width: 100%;
 }
 
+div.three-dimensions-card h2 {
+    margin-top: .5em;
+}
