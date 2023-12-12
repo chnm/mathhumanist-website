@@ -6,6 +6,25 @@ Welcome to the homepage for the *Mathematical Humanists* project, brought to you
 
 Mathematical Humanists is offering a series of workshops on the mathematics that underpins common Digital Humanities (DH) methods.  These will be a combination of in-person and online workshops.  See our planned schedule below, as well as descriptions of the workshops, then check out our [Call for Participants](/cfp/) for the first two workshops.
 
+<details class="border border-gray-300 rounded-md p-4 mb-4">
+<summary class="font-bold text-lg text-ucla-blue cursor-pointer">Subscribe to our listserv</summary>
+<div id="mc_embed_shell">
+      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+<div id="mc_embed_signup">
+    <form action="https://rrchnm.us14.list-manage.com/subscribe/post?u=36898c6824a31b8e1d4434a55&amp;id=75ea446aad&amp;f_id=006990e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4" target="_blank">
+        <div id="mc_embed_signup_scroll" class="block text-gray-700 text-sm font-bold mb-2 mt-4"><h2>Subscribe to the Mathematical Humanists Listserv!</h2>
+            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span></div><div class="mc-field-group"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Last Name </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div>
+        <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display: none;"></div>
+            <div class="response" id="mce-success-response" style="display: none;"></div>
+        </div><div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_36898c6824a31b8e1d4434a55_75ea446aad" tabindex="-1" value=""></div><div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"></div>
+    </div>
+</form>
+</div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+</details>
+
 | Workshop         | Version                  | Format    | Summer |
 | ---------------- | ------------------------ | --------- | ------ |
 | W1-Stats         | Synchronous              | In-person | 2024   |
