@@ -12,7 +12,6 @@ env:
   PROD_URL: "https://mathhumanists.org/"
 
 jobs:
-
   build:
     runs-on: ubuntu-latest
 
