@@ -1,4 +1,4 @@
-name: "[mathhumanist-website] Build & Publish"
+name: "[mathhumanist-website] Build, Release, Deploy"
 
 on:
   push:
@@ -6,86 +6,20 @@ on:
       - "main"
     paths:
       - "**"
-env:
-  REGISTRY: ghcr.io
-  IMAGE_NAME: "ghcr.io/${{ github.repository }}-website"
-  PROD_URL: "https://mathhumanists.org/"
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    permissions:
-      packages: write
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Login to GitHub Container Registry
-        uses: docker/login-action@v2
-        with:
-          username: ${{ github.repository_owner }}
-          password: ${{ secrets.GITHUB_TOKEN }}
-          registry: ${{ env.REGISTRY }}
-
-      - name: Build and Push Docker Image for Local Dev
-        uses: docker/build-push-action@v4
-        with:
-          context: .
-          push: true
-          tags: "${{ env.IMAGE_NAME }}:latest"
-          platforms: linux/amd64
-
-      - name: Build Docker Image (prod)
-        if: github.ref == 'refs/heads/main'
-        uses: docker/build-push-action@v4
-        with:
-          context: "${{ env.CONTEXT_ROOT }}"
-          push: false
-          tags: "${{ env.IMAGE_NAME }}:latest"
-          platforms: linux/amd64
-          build-args: |
-            hugobuildargs=--cleanDestinationDir --minify --baseURL ${{ env.PROD_URL }}
-
-      - name: Extract build artifact from docker image
-        uses: shrink/actions-docker-extract@v2
-        id: extract
-        with:
-          image: "${{ env.IMAGE_NAME }}:latest"
-          path: /usr/share/nginx/html/
-
-      - name: Archive build artifact
-        run: tar czvf mathhumanist-website.tar.gz -C ${{ steps.extract.outputs.destination }}/html .
-
-      - name: Upload build artifact
-        uses: actions/upload-artifact@v3
-        with:
-          path: ./mathhumanist-website.tar.gz
-          name: mathhumanist-website
-
-  release:
-    needs: build
-    uses: chnm/.github/.github/workflows/create-release.yml@main
+  hugo-build-release-deploy:
+    uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
     secrets: inherit
     with:
-      github-run-id: "${{ github.run_id }}"
-      github-workflow: "${{ github.workflow }}"
-      github-workflow-ref: "${{ github.workflow_ref }}"
-      github-workflow-sha: "${{ github.workflow_sha }}"
-      github-workspace: "${{ github.workspace }}"
-      github-repository: "${{ github.repository }}"
-      github-repository-owner: "${{ github.repository_owner }}"
-      github-repository-name: "${{ github.event.repository.name }}"
-      github-repository-url: "${{ github.repository-url }}"
-      github-action-ref: "${{ github.action_ref }}"
-      github-event-name: "${{ github.event_name }}"
-      github-actor: "${{ github.actor }}"
-      github-triggering-actor: "${{ github.triggering_actor }}"
-      github-base-ref: "${{ github.base_ref }}"
-      github-ref-name: "${{ github.ref_name }}"
-      github-ref-type: "${{ github.ref_type }}"
-      github-ref: "${{ github.ref }}"
-      github-sha: "${{ github.sha }}"
+      container-registry: "ghcr.io"
+      container-image-name: "mathhumanist-website"
+      hugo-context-root: "."
+      hugo-devl-url: "https://mathhumanists.org"
+      hugo-prod-url: "https://mathhumanists.org"
+      
       build-artifact-name: "mathhumanist-website"
-      release-artifact-tarball-filename: "mathhumanist-website.tar.gz"
       release-tag-name-type: "iso"
+      
+      website-devl-fqdn: "mathhumanists.org"
+      website-prod-fqdn: "mathhumanists.org"
