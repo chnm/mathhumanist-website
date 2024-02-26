@@ -2,9 +2,9 @@
 title: Mathematical Humanists
 ---
 
-Welcome to the homepage for the *Mathematical Humanists* project, brought to you by the Roy Rosenzweig Center for History at New Media at George Mason University and the University of California-Los Angeles, with funding from the National Endowment for the Humanities.
+Welcome to the homepage for the _Mathematical Humanists_ project, brought to you by the Roy Rosenzweig Center for History at New Media at George Mason University and the University of California-Los Angeles, with funding from the National Endowment for the Humanities.
 
-Mathematical Humanists is offering a series of workshops on the mathematics that underpins common Digital Humanities (DH) methods.  These will be a combination of in-person and online workshops.  See our planned schedule below, as well as descriptions of the workshops, then check out our [Call for Participants](/cfp/) for the first two workshops.
+Mathematical Humanists is offering a series of workshops on the mathematics that underpins common Digital Humanities (DH) methods. These will be a combination of in-person and online workshops. See our planned schedule below, as well as descriptions of the workshops.
 
 <details class="border border-gray-300 rounded-md p-4 mb-4">
 <summary class="font-bold text-lg text-ucla-blue cursor-pointer">Subscribe to our listserv</summary>
@@ -46,11 +46,11 @@ Participants will learn to program in R to run statistical tests and write funct
 
 <div class="three-dimensions-card"><h2>Graphs and Networks Workshop</h2></div>
 
-Participants will learn to construct and analyze graphs and networks using real-world examples related to humanistic questions and research agendas. Throughout the workshop, participants will become familiar with the mathematical concepts that are foundational to networks as they learn to format network data, analyze and interpret network structures. They will emerge from this workshop with a knowledge of the relationship between graphs and networks; the underlying mathematical concepts of a network; how to format humanities data for network analysis; and how to quantitatively analyze and interpret network structures. They will also be introduced to popular cross-platform digital humanities tools for the visualization and analysis of networks. 
+Participants will learn to construct and analyze graphs and networks using real-world examples related to humanistic questions and research agendas. Throughout the workshop, participants will become familiar with the mathematical concepts that are foundational to networks as they learn to format network data, analyze and interpret network structures. They will emerge from this workshop with a knowledge of the relationship between graphs and networks; the underlying mathematical concepts of a network; how to format humanities data for network analysis; and how to quantitatively analyze and interpret network structures. They will also be introduced to popular cross-platform digital humanities tools for the visualization and analysis of networks.
 
 <div class="three-dimensions-card"><h2>Linear Algebra</h2></div>
 
-By the end of this workshop, participants will be able to solve systems of linear equations; perform matrix algebra; understand determinants and their properties; understand real vector spaces and apply their properties; compute linear transformations; find eigenvalues and eigenvectors and use them in applications. Participants will learn each of these concepts and skills in the context of a real humanities data set. By the end of the workshop, they will be able to describe and demonstrate how fundamental topics in Linear Algebra relate to common DH methods. 
+By the end of this workshop, participants will be able to solve systems of linear equations; perform matrix algebra; understand determinants and their properties; understand real vector spaces and apply their properties; compute linear transformations; find eigenvalues and eigenvectors and use them in applications. Participants will learn each of these concepts and skills in the context of a real humanities data set. By the end of the workshop, they will be able to describe and demonstrate how fundamental topics in Linear Algebra relate to common DH methods.
 
 <div class="three-dimensions-card"><h2>Discrete Mathematics</h2></div>
 

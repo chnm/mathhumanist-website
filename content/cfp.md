@@ -1,9 +1,9 @@
 ---
-title: "Call for Participants 2024"
+title: "Call for Participants 2024 is now closed"
 slug: /cfp/
 ---
 
-We seek participants interested in developing a conceptual foundation for understanding the assumptions made in common DH methods, such as statistics, network analysis, and text mining and analysis. The workshops will introduce participants to mathematical notation, theories, and application using a learner-centered, case-study approach, contextualizing each lesson with real humanities data and questions. We seek a diverse cohort of participants doing DH research, instruction, and/or related scholarship who wish to learn about the mathematics behind common DH methods, especially those who have not had access to this training before. 
+We seek participants interested in developing a conceptual foundation for understanding the assumptions made in common DH methods, such as statistics, network analysis, and text mining and analysis. The workshops will introduce participants to mathematical notation, theories, and application using a learner-centered, case-study approach, contextualizing each lesson with real humanities data and questions. We seek a diverse cohort of participants doing DH research, instruction, and/or related scholarship who wish to learn about the mathematics behind common DH methods, especially those who have not had access to this training before.
 
 The first two workshops will be held in person, hosted by the Roy Rosenzweig Center for History and New Media at George Mason University in August 2024. Additional courses will be held in person and online in 2025 and 2026. Accepted participants' travel and lodging expenses will be covered.
 
@@ -15,7 +15,7 @@ Participants will learn to program in R to run statistical tests and write funct
 
 ### Graphs and Networks, August 10-12, 2024
 
-Participants will learn to construct and analyze graphs and networks using real-world examples related to humanistic questions and research agendas. Throughout the workshop, participants will become familiar with the mathematical concepts that are foundational to networks as they learn to format network data, analyze and interpret network structures. They will emerge from this workshop with a knowledge of the relationship between graphs and networks; the underlying mathematical concepts of a network; how to format humanities data for network analysis; and how to quantitatively analyze and interpret network structures. They will also be introduced to popular cross-platform digital humanities tools for the visualization and analysis of networks. 
+Participants will learn to construct and analyze graphs and networks using real-world examples related to humanistic questions and research agendas. Throughout the workshop, participants will become familiar with the mathematical concepts that are foundational to networks as they learn to format network data, analyze and interpret network structures. They will emerge from this workshop with a knowledge of the relationship between graphs and networks; the underlying mathematical concepts of a network; how to format humanities data for network analysis; and how to quantitatively analyze and interpret network structures. They will also be introduced to popular cross-platform digital humanities tools for the visualization and analysis of networks.
 
 ### August 2024 Workshop Instructors
 
@@ -34,7 +34,7 @@ Participants will learn to construct and analyze graphs and networks using real-
     </div>
 </div>
 
-We welcome anyone doing DH research, pedagogy, and/or related scholarship who wishes to learn about the mathematics behind common DH methods. Participants may include but are not limited to people working at non-profits and cultural heritage institutes; tenure-line faculty, contingent faculty, and advanced graduate students from university and college humanities and humanistic social science departments; librarians, archivists, and museum staff; and independent scholars and creators. We particularly encourage applications from people in traditionally underrepresented, marginalized, and disempowered groups. 
+We welcome anyone doing DH research, pedagogy, and/or related scholarship who wishes to learn about the mathematics behind common DH methods. Participants may include but are not limited to people working at non-profits and cultural heritage institutes; tenure-line faculty, contingent faculty, and advanced graduate students from university and college humanities and humanistic social science departments; librarians, archivists, and museum staff; and independent scholars and creators. We particularly encourage applications from people in traditionally underrepresented, marginalized, and disempowered groups.
 
 We are committed to creating accessible workshops. Anyone who wishes to discuss accessibility before applying may contact jotis2@gmu.edu and we will touch base with all accepted participants about any accessibility needs this spring.
 
@@ -42,8 +42,8 @@ We are committed to creating accessible workshops. Anyone who wishes to discuss 
 
 The call for applications for the 2024 Statistics and Network Analysis workshops is now open and available until **February 15, 2024, 11:59PM Eastern**. Applicants who wish to apply to both workshops should apply separately for each workshop.
 
-Apply by emailing a 1-page statement of interest, which explains why attending either the Statistics or the Network Analysis workshop will be beneficial to you, to jotis2@gmu.edu 
+Apply by emailing a 1-page statement of interest, which explains why attending either the Statistics or the Network Analysis workshop will be beneficial to you, to jotis2@gmu.edu
 
 Acceptance notifications will be sent in early April.
 
-Find out more at the project website: https://MathHumanists.org 
+Find out more at the project website: https://MathHumanists.org
