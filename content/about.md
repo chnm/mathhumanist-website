@@ -66,7 +66,7 @@ slug: /about/
 
   <div class="flex flex-col items-center">
     <div class="w-40 h-40">
-      <img class="object-cover rounded-full" src="/images/comingsoon.png" alt="Gizem Karaali">
+      <img class="object-cover rounded-full" src="/images/gizem.png" alt="Gizem Karaali">
     </div>
     <div class="mt-6 text-center">
       <p class="text-lg font-bold">Gizem Karaali</p>
