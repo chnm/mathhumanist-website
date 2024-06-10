@@ -75,7 +75,7 @@ slug: /about/
 
   <div class="flex flex-col items-center">
   <div class="w-40 h-40">
-      <img class="object-cover rounded-full" src="/images/comingsoon.png" alt="Kimberley Martin">
+      <img class="object-cover rounded-full" src="/images/km.png" alt="Kimberley Martin">
     </div>
     <div class="mt-6 text-center">
       <p class="text-lg font-bold">Kimberley Martin</p>
@@ -93,6 +93,15 @@ slug: /about/
     </div>
     <div class="mt-6 text-center">
       <p class="text-lg font-bold">Bridget Bukovich</p>
+    </div>
+  </div>
+
+<div class="flex flex-col items-center">
+    <div class="w-40 h-40">
+      <img class="object-cover rounded-full" src="/images/cg.png" alt="Caroline Greer">
+    </div>
+    <div class="mt-6 text-center">
+      <p class="text-lg font-bold">Caroline Greer</p>
     </div>
   </div>
 
