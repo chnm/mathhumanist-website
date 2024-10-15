@@ -1,6 +1,6 @@
 ---
 title: "Call for Participants 2024 is now closed"
-slug: /cfp/
+slug: /cfp-2024/
 ---
 
 We seek participants interested in developing a conceptual foundation for understanding the assumptions made in common DH methods, such as statistics, network analysis, and text mining and analysis. The workshops will introduce participants to mathematical notation, theories, and application using a learner-centered, case-study approach, contextualizing each lesson with real humanities data and questions. We seek a diverse cohort of participants doing DH research, instruction, and/or related scholarship who wish to learn about the mathematics behind common DH methods, especially those who have not had access to this training before.
