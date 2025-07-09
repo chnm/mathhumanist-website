@@ -2,9 +2,9 @@
 title: Mathematical Humanists
 ---
 
-Welcome to the homepage for the _Mathematical Humanists_ project, brought to you by the Roy Rosenzweig Center for History at New Media at George Mason University and the University of California-Los Angeles, with funding from the National Endowment for the Humanities.
+Welcome to the homepage for the Mathematical Humanists project, which is currently on hiatus due to the premature cancellation of our National Endowment for the Humanities grant by DOGE. We are currently evaluating our options while the lawsuits play out and expect to seek new funding to continue this work in the future.
 
-Mathematical Humanists is offering a series of workshops on the mathematics that underpins common Digital Humanities (DH) methods. These will be a combination of in-person and online workshops. See our planned schedule below, as well as descriptions of the workshops.
+Mathematical Humanists was offering a series of workshops on the mathematics that underpins common Digital Humanities (DH) methods. These were to be a combination of in-person and online workshops. See our originally planned schedule below, as well as descriptions of the workshops. You can also check out our partially constructed Networks workshop and subscribe to our listserv for future updates.
 
 <details class="border border-gray-300 rounded-md p-4 mb-4">
 <summary class="font-bold text-lg text-ucla-blue cursor-pointer">Subscribe to our listserv</summary>
