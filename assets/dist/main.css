@@ -1079,6 +1079,10 @@ video {
   margin-bottom: 1rem;
 }
 
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
 .mt-4 {
   margin-top: 1rem;
 }
@@ -1346,6 +1350,10 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
+.\[http\:\/\/install\%20R\%20and\%20RStudio\] {
+  http: //install%20R%20and%20RStudio;
+}
+
 @font-face {
   font-family: 'Atkinson';
 
@@ -1410,6 +1418,38 @@ body {
   margin: 0 auto;
 }
 
+/* Skip link — clipped to invisible until keyboard focus */
+
+.skip-link {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skip-link:focus {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: auto;
+  height: auto;
+  padding: 8px 16px;
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
+  background: #fff;
+  color: #000;
+  font-weight: 700;
+  text-decoration: none;
+  z-index: 100;
+}
+
 /* Typography */
 
 h2 {
@@ -1418,7 +1458,8 @@ h2 {
 
 /* Menu */
 
-a.nav-element, a:visited.nav-element {
+a.nav-element,
+a:visited.nav-element {
   color: var(--gmu-green);
   text-decoration: none;
 }
@@ -1470,6 +1511,12 @@ a.nav-element:hover {
 
 div.three-dimensions-card h2 {
   margin-top: .5em;
+}
+
+/* Improved accessibility of newsletter sign-up */
+
+#mc_embed_signup .asterisk {
+  color: #d2462b !important;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -2324,6 +2371,10 @@ div.three-dimensions-card h2 {
     margin-bottom: 0px;
   }
 
+  .sm\:mt-0 {
+    margin-top: 0px;
+  }
+
   .sm\:flex {
     display: flex;
   }
@@ -2334,10 +2385,6 @@ div.three-dimensions-card h2 {
 
   .sm\:justify-between {
     justify-content: space-between;
-  }
-
-  .sm\:text-center {
-    text-align: center;
   }
 }
 

@@ -59,4 +59,5 @@ We look forward to welcoming you to George Mason and DH2024 in August! We hope t
 
 Once more, make sure to keep any receipts you receive for your Metro travel to and from the airport and hotel. This will allow you to be reimbursed for the cost of your trip. Of course, feel free to use taxis, Lyft, or Uber if you desire, but once again, this will not be reimbursed unless pre-authorized.
 
-<!-- watermark --><div style="background-color:#FFFFFF"><p style="color:#FFFFFF; font-size: 1px">gd2md-html: xyzzy Tue Jul 23 2024</p></div>
+<!-- watermark -->
+<!-- <div style="background-color:#FFFFFF"><p style="color:#FFFFFF; font-size: 1px">gd2md-html: xyzzy Tue Jul 23 2024</p></div>-->
