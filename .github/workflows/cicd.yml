@@ -15,7 +15,7 @@ jobs:
     with:
       container-registry: "ghcr.io"
       container-image-name: "mathhumanist-website"
-      hugo-context-root: "website"
+      hugo-context-root: "."
       hugo-devl-url: "https://mathhumanists.org"
       hugo-prod-url: "https://mathhumanists.org"
 
