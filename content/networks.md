@@ -5,7 +5,7 @@ slug: /networks/
 
 ## Syllabus
 
-Instructor: Jessica Otis, jotis2@gmu.edu
+Instructor: Jessica Otis, [jotis2@gmu.edu](mailto:jotis2@gmu.edu)
 
 Learning Outcomes:
 
@@ -41,12 +41,12 @@ Schedule: [Full playlist on YouTube](https://www.youtube.com/playlist?list=PLPFb
 
 ## Additional Reading Options  
 	  
-**Books:**  
+### Books:  
 - Joad Raymond and Noah Moaxham, eds, *News Networks in Early Modern Europe* (Brill: 2016), [https://brill.com/abstract/title/26263](https://brill.com/abstract/title/26263)
 
 - Ruth Ahnert and Sebastian E. Ahnert, *Tudor Networks of Power *(Oxford 2024), [https://global.oup.com/academic/product/tudor-networks-of-power-9780198858973?cc=us\&lang=en&](https://global.oup.com/academic/product/tudor-networks-of-power-9780198858973?cc=us&lang=en&) 
 
-**Articles:**  
+### Articles:  
 - Ruth Ahnert and Sebastian E. Ahnert, "Metadata, Surveillance and the Tudor State," *History Workshop Journal* (2019), [https://doi.org/10.1093/hwk/dby033](https://doi.org/10.1093/hwk/dby033)
 
 - Ruth Ahnert and Sebastian E. Ahnert, "Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach," *ELH* 82, no. 1 (2015): 1-33, [https://qmro.qmul.ac.uk/xmlui/handle/123456789/10170](https://qmro.qmul.ac.uk/xmlui/handle/123456789/10170)
@@ -68,7 +68,7 @@ Schedule: [Full playlist on YouTube](https://www.youtube.com/playlist?list=PLPFb
 
 - Claire Ruegg and James Jaehoon Lee, "Epic Social Networks and Eve's Centrality in Milton's *Paradise Lost*," *Digital Scholarship in the Humanities* (2019), [https://doi.org/10.1093/llc/fqz001](https://doi.org/10.1093/llc/fqz001)
 
-**Digital Projects:**  
+### Digital Projects:  
 - Cristina Pattuelli, "Linked Jazz," [https://linkedjazz.org/network/](https://linkedjazz.org/network/)
 
 - Walter Scheidel, Elijah Meeks, et al, "ORBIS: The Stanford Geospatial Network Model fo the Roman World," [http://orbis.stanford.edu](http://orbis.stanford.edu)

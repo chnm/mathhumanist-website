@@ -2,12 +2,12 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-<div class="homepage-content limiter pad2y prose md:prose-lg lg:prose-xl dark:prose-invert">
+<main id="main-content" class="homepage-content limiter pad2y prose md:prose-lg lg:prose-xl dark:prose-invert">
 
   <div class="three-dimensions-card"><h2>{{ .Title }}</h2></div>
 
     {{ .Content }}
-  </div>
+  </main>
 {{ end }}
 
 

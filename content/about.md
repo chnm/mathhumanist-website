@@ -48,7 +48,7 @@ slug: /about/
 
   <div class="flex flex-col items-center">
     <div class="w-40 h-40">
-      <img class="object-cover rounded-full" src="/images/comingsoon.png" alt="Quinn Dombrowski">
+      <img class="object-cover rounded-full" src="/images/comingsoon.png" alt="placeholder for Quinn Dombrowski">
     </div>
     <div class="mt-6 text-center">
       <p class="text-lg font-bold">Quinn Dombrowski</p>
@@ -74,14 +74,13 @@ slug: /about/
   </div>
 
   <div class="flex flex-col items-center">
-  <div class="w-40 h-40">
+    <div class="w-40 h-40">
       <img class="object-cover rounded-full" src="/images/km.png" alt="Kimberley Martin">
     </div>
     <div class="mt-6 text-center">
       <p class="text-lg font-bold">Kimberley Martin</p>
     </div>
   </div>
-
 </div>
 
 ## Institute Staff
@@ -96,7 +95,7 @@ slug: /about/
     </div>
   </div>
 
-<div class="flex flex-col items-center">
+  <div class="flex flex-col items-center">
     <div class="w-40 h-40">
       <img class="object-cover rounded-full" src="/images/cg.png" alt="Caroline Greer">
     </div>
@@ -129,6 +128,15 @@ slug: /about/
     </div>
     <div class="mt-6 text-center">
       <p class="text-lg font-bold">Ashley Sanders</p>
+    </div>
+  </div>
+
+  <div class="flex flex-col items-center">
+    <div class="w-40 h-40">
+      <img class="object-cover rounded-full" src="/images/comingsoon.png" alt="placeholder for Savannah Scott">
+    </div>
+    <div class="mt-6 text-center">
+      <p class="text-lg font-bold">Savannah Scott</p>
     </div>
   </div>
 </div>

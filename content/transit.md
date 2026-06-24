@@ -58,5 +58,3 @@ If you have any concerns about the directions above or need accommodations to ma
 We look forward to welcoming you to George Mason and DH2024 in August! We hope these directions will make your travel a bit easier. Send any questions to me, Caroline, at [cgreer2@gmu.edu](mailto:cgreer2@gmu.edu).
 
 Once more, make sure to keep any receipts you receive for your Metro travel to and from the airport and hotel. This will allow you to be reimbursed for the cost of your trip. Of course, feel free to use taxis, Lyft, or Uber if you desire, but once again, this will not be reimbursed unless pre-authorized.
-
-<!-- watermark --><div style="background-color:#FFFFFF"><p style="color:#FFFFFF; font-size: 1px">gd2md-html: xyzzy Tue Jul 23 2024</p></div>
